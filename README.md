@@ -1,2 +1,4 @@
 Web QOdr
 ========
+
+Pendaftaran dibuka
