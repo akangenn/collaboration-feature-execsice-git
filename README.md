@@ -1,4 +1,4 @@
-Web QOdr
+Web Qodr
 ========
 
 Pendaftaran dibuka
